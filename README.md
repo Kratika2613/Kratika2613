@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **DSA, MERN**
 
 - 📫 How to reach me **kratikapachori2004@gmail.com**
 
